@@ -22,7 +22,7 @@
   },
   {
       "id": 4,
-      "error": "50",
+      "error": "30",
       "time": "3.1 hrs",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "running": false
