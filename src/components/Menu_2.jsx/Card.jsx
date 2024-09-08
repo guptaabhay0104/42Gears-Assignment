@@ -9,7 +9,7 @@ const Card = memo(({ running, content, time, progress, error }) => {
   const progressWidth = Number(progress) || Number(error);
   const progressBarStyle = {
     width: `${progressWidth}%`,
-    backgroundColor: progress ? '#f44336' : '#4caf50',
+    backgroundColor: error ? '#f44336' : '#4caf50',
     height: '10px'
   };
 
