@@ -1,0 +1,24 @@
+[
+  { 
+    "id": 1, 
+    "project": "Template 101",
+    "progress": "47%",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ipsam neque facilis ad minus fuga laborum numquam. Harum, veniam repellat."},
+
+  { 
+    "id": 2, 
+    "project": "Template 174", 
+    "progress": "27%", 
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ipsam neque facilis ad minus fuga laborum numquam. Harum, veniam repellat."},
+  
+  { "id": 3, 
+    "project": "Template 256", 
+    "progress": "71%", 
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ipsam neque facilis ad minus fuga laborum numquam. Harum, veniam repellat."},
+
+  { "id": 4, 
+    "project": "Template 345", 
+    "progress": "50%", 
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam ipsam neque facilis ad minus fuga laborum numquam. Harum, veniam repellat."}
+
+]
